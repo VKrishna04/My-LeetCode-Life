@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0066-plus-one) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 ## Bit Manipulation
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
