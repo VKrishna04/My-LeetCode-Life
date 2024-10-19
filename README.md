@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0136-single-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
