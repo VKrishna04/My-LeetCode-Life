@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
 | [0485-max-consecutive-ones](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0485-max-consecutive-ones) |
+| [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
