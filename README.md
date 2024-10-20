@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Number Theory
 |  |
