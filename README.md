@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1236-n-th-tribonacci-number) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Memoization
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
