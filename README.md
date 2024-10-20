@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 ## String
 |  |
@@ -91,10 +92,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
