@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0485-max-consecutive-ones) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0383-ransom-note) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2226-rings-and-rods](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2226-rings-and-rods) |
@@ -133,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Stack
