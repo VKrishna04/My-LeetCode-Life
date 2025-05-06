@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0263-ugly-number) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
