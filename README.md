@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Stack
 |  |
