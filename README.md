@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0338-counting-bits) |
