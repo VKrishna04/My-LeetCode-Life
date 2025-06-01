@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0067-add-binary) |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
