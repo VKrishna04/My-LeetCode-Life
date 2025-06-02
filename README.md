@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3830-find-closest-person](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3830-find-closest-person) |
 ## Memoization
 |  |
 | ------- |
