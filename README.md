@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0342-power-of-four) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
