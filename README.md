@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0477-total-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0477-total-hamming-distance) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0496-next-greater-element-i) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
