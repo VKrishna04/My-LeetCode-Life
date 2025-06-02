@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
+| [0477-total-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0477-total-hamming-distance) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1236-n-th-tribonacci-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
+| [0477-total-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0496-next-greater-element-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0477-total-hamming-distance) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Simulation
 |  |
