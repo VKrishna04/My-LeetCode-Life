@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
 |  |
