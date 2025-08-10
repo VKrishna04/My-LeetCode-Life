@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0035-search-insert-position) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
