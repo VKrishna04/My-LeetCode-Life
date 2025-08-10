@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 ## Binary Search
 |  |
 | ------- |
