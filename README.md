@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
+| [1542-consecutive-characters](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1542-consecutive-characters) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2076-sum-of-digits-of-string-after-convert) |
