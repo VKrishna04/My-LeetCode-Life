@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
