@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2226-rings-and-rods](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2226-rings-and-rods) |
+| [2413-smallest-number-in-infinite-set](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2413-smallest-number-in-infinite-set) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2413-smallest-number-in-infinite-set) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Tree
 |  |
@@ -271,8 +273,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2413-smallest-number-in-infinite-set](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2413-smallest-number-in-infinite-set) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
