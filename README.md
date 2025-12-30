@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1236-n-th-tribonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3693-climbing-stairs-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3693-climbing-stairs-ii) |
 | [3707-find-the-most-common-response](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3707-find-the-most-common-response) |
 ## Bit Manipulation
 |  |
