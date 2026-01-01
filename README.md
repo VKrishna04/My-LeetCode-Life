@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0496-next-greater-element-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0875-koko-eating-bananas](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0875-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0278-first-bad-version) |
+| [0875-koko-eating-bananas](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0875-koko-eating-bananas) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Interactive
