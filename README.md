@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0118-pascals-triangle) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0055-jump-game) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
