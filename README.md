@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
 | [0477-total-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0496-next-greater-element-i) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0875-koko-eating-bananas) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0496-next-greater-element-i) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
