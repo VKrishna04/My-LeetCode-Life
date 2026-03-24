@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1768-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
 | [1542-consecutive-characters](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1542-consecutive-characters) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
+| [1768-merge-strings-alternately](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1768-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2226-rings-and-rods](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2226-rings-and-rods) |
