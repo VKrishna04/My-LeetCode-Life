@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3830-find-closest-person](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3830-find-closest-person) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Linked List
 |  |
 | ------- |
