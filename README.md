@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1542-consecutive-characters](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1542-consecutive-characters) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1768-merge-strings-alternately) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0477-total-hamming-distance) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
