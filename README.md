@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1768-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0455-assign-cookies) |
 | [0477-total-hamming-distance](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0496-next-greater-element-i) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0455-assign-cookies) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
