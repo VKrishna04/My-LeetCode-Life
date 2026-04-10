@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0746-min-cost-climbing-stairs) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
