@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1542-consecutive-characters](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1542-consecutive-characters) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
 | [1768-merge-strings-alternately](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1768-merge-strings-alternately) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1236-n-th-tribonacci-number) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3693-climbing-stairs-ii](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/3693-climbing-stairs-ii) |
 ## Math
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1031-add-to-array-form-of-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1751-slowest-key](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1751-slowest-key) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0455-assign-cookies) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1303-minimum-moves-to-reach-target-score) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
