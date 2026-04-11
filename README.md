@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0091-decode-ways) |
 | [0344-reverse-string](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0198-house-robber) |
