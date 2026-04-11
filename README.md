@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0746-min-cost-climbing-stairs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0415-add-strings) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/VKrishna04/My-LeetCode-Life/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
